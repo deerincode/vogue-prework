@@ -1,0 +1,93 @@
+        body{background-color: #6770cd;}
+        h2{text-align: center;
+           font-family: fantasy;
+           color:#c50c346b
+        }
+        h3{font-family: Arial, Helvetica, sans-serif;}
+        p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+        
+        .divList{
+            position: static;
+            margin: 0 auto;
+            margin-bottom: 2em;
+            max-width: 400px;
+            border-style: dotted;
+        }
+        #hobbyPara{
+            color:#CD9167;
+        }
+        
+        #clearfixAerith{
+            max-width: 500px;
+            margin: 0 auto;
+            background-color: azure;
+            overflow: auto;
+            margin-top: 2em;
+            margin-bottom: 1em;
+        }
+        #aerithPic{
+            float: right;
+        }
+        .imgDescrip{
+            font-family: arial;
+            font-size: larger;
+        }
+        .pageNav{
+            position: fixed;
+            top: 0;
+            right: 0;
+            width: 200px;
+            background-color: aquamarine;
+            border-style: groove;
+        }
+        .hobbyList{
+            color:#CD67A3;
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: bold;
+        }
+        .main{
+            position: static;
+            max-width: 700px;
+            margin: 0 auto;
+            border: double;
+        }
+        .mainParas{
+            color:#cdC467;
+        }
+        .headThree{
+            color:#CD6770;
+        }
+        .factList{
+            color: #CD67A3;
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: bold;
+            font-size: 14pt;
+        }
+        form{
+            padding: 35px;
+            background-color:rgb(37, 209, 209);
+            border-style: double;
+            font-weight: bold;
+            width: 10%;
+        }
+        input[type=button] {
+            color:black;
+            background-color: azure;
+            padding: 5px;
+        }
+        #formHead{
+            color: azure;
+        }
+        #videoContainer{
+            margin-left: 15em;
+            margin-top: 2em;
+        }
+        #albums{
+            position:static;
+            margin-left: 400px;
+        }
+        #musicForm{
+            margin-left: 250px;
+            margin-top: 1em;
+        }
+       
